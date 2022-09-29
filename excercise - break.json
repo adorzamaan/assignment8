@@ -1,0 +1,50 @@
+[
+  {
+    "id": 1,
+    "name": "Push Up",
+    "age": 23,
+    "timing": 145,
+    "img": "https://images.unsplash.com/photo-1594737625785-a6cbdabd333c?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=870&q=80",
+    "quantity": 0
+  },
+  {
+    "id": 2,
+    "name": "Dumble",
+    "age": 20,
+    "timing": 120,
+    "img": "https://cdn.pixabay.com/photo/2017/08/07/14/02/man-2604149__340.jpg",
+    "quantity": 0
+  },
+  {
+    "id": 3,
+    "name": "Yo Yo Humble",
+    "age": 28,
+    "timing": 60,
+    "img": "https://cdn.pixabay.com/photo/2016/11/19/12/43/barbell-1839086__340.jpg",
+    "quantity": 0
+  },
+  {
+    "id": 4,
+    "name": "Yo Yo 25kg Gumble",
+    "age": 30,
+    "timing": 70,
+    "img": "https://cdn.pixabay.com/photo/2016/11/19/12/43/barbell-1839087__340.jpg",
+    "quantity": 0
+  },
+  {
+    "id": 5,
+    "name": "Running women",
+    "age": 19,
+    "timing": 35,
+    "img": "https://cdn.pixabay.com/photo/2021/05/14/08/44/running-6252827_960_720.jpg",
+    "quantity": 0
+  },
+  {
+    "id": 6,
+    "name": "Men muscle",
+    "age": 29,
+    "timing": 30,
+    "img": "https://cdn.pixabay.com/photo/2015/02/19/03/31/man-641691__340.jpg",
+    "quantity": 0
+  }
+]
